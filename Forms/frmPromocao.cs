@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace INFOMASTER
+namespace INFOMASTER.Forms
 {
-    public partial class Form1 : Form
+    public partial class frmPromocao : Form
     {
-        public Form1()
+        public frmPromocao()
         {
             InitializeComponent();
         }
